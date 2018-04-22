@@ -1,0 +1,580 @@
+﻿body
+{
+background-color: #953e46;
+color:white;
+
+}
+.cointainer{
+	width: 1110px;
+	margin: 0px auto;
+}
+
+.clear{
+	clear:both;
+}
+.Social h2{
+	padding: 5px;
+    color: #ffe9e9;
+    font-size: 32px;
+}
+
+#nav-bar {
+	width: 100%;
+	height: 200px;
+}
+
+.Social{
+	width:100px;
+	height: 10px;
+}
+
+.social {
+	width: 1000px;
+	height: 1000px;
+	display: inline;
+	margin-top:400px;
+	background-color: red;
+
+}
+.input{
+	width: 409px;
+	height: 30px;
+	background: #ffe9e9;
+	float: left;
+	margin-left: 251px;
+}
+.input input{
+	margin: 0;
+	padding:0;
+	width: 80%;
+	height: 100%;
+	border: none;
+	outline: none;
+	background: #ffe9e9;
+}
+.input i{
+	float: right;
+	margin: 6px;
+	cursor: pointer;
+	color:#953e46;
+}
+.update	{
+	width:100px;
+	height:60px;
+	background: #ffe9e9;
+	text-align: center;
+	line-height: 32px;
+	cursor: pointer;
+	display: inline;
+	padding: 7px;
+	margin-left:45px;
+    color: #953e46;
+
+}
+.update i{
+color: #953e46;
+}
+.button i{
+	color: #953e46;
+
+}
+
+.account{
+	display: inline;
+}
+.account button{
+	width: 30px;
+	height: 30px;
+    margin-left:40px;
+    background: #ffe9e9;
+}
+.account i{
+	color:#953e46;
+
+}
+.menu {
+	width: 1100px;
+	height: 50px;
+    border: 3px solid white;
+    border-left: 0px;
+    border-right: 0px;
+    margin-top: 42px;
+
+}
+ ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ li a {
+    margin:12px;
+    float: left;
+    color: white;
+    text-decoration: none;
+}
+
+#Videos{
+
+	height: 200px;
+	width: 65%;
+	
+}
+
+ .menu1 {
+	height: 272px;
+    width: 470px;
+    background: #ffe9e9;
+    display: inline-block;
+}
+
+.menu2 {
+	height: 133px;
+    width: 220px;
+    background: #ffe9e9;
+    display: inline-block;
+    margin-bottom: 139px;
+    margin-left: 11px;
+}
+.menu3{
+	height: 134px;
+	width: 220px;
+	background: #ffe9e9;
+	display: inline-block;
+	margin-bottom: 1px; 
+	margin-left:-224px;
+
+}
+.menu4 {
+	height: 134px;
+	width: 220px;
+	background: #ffe9e9;
+	display: inline-block;
+	padding: 11px
+}
+.views-1{
+	float: left;
+    margin-top: 106px;
+    margin-left: 16px;
+    color: #953e46;
+}
+.views-2{
+	float: left;
+	margin-top: 106px;
+    margin-left: 32px;
+    color: #953e46;
+}
+.views-3{
+	float: left;
+    margin-left: 43px;
+    margin-top: 119px;
+    color: #953e46;
+}
+.views-4{
+	float: left;
+    margin-top: 127px;
+    margin-left: 60px;
+    color: #953e46;
+    
+}
+.views-5{
+	float: left;
+	color: #953e46;
+}
+.menu5{
+	height: 152px;
+	width: 220px;
+	background: #ffe9e9;
+	display: inline-block;
+	padding: 2px
+}
+.menu6 {
+	height: 152px;
+    width: 216px;
+    display: inline-block;
+    padding: 2px;
+    margin-left: 10px;
+    border: 1px solid white;
+}
+.menu6 i{
+	    font-size: 80px;
+    float: left;
+    margin-top: 40px;
+    margin-left: 21px;
+    color:#ffe9e9;
+}
+.works{
+	margin-top: 57px;
+    display: inline;
+    float: left;
+    margin-left: 10px;
+}
+.works h3{
+	margin-top: 138px;
+    margin: 0;
+}
+.works h4{
+	margin: 0;
+}
+#People{
+
+	height: 200px;
+	width: 65%;
+	margin-top: 303px;
+}
+
+#Documents{
+
+	height: 200px;
+	width: 65%;
+	margin-top: 303px;
+}
+#Activity{
+	height: 431px;
+	width: 35%;
+	display: inline;
+	float: left;
+	margin-left: 721px;
+    margin-top: -1158px;
+    margin-bottom: 20px;
+   
+}
+.Activity{
+	border: 3px solid white;
+    border-left: 0;
+    border-top: 0;
+    border-right: 0px;
+}
+#Channels{
+	height: 655px;
+    width: 35%;
+    display: inline;
+    float: left;
+    margin-left: 719px;
+    margin-top: -591px;
+	border-bottom: 2px solid;
+}
+
+.activity-menu1{
+	height: 60px;
+    width: 106px;
+	background: #ffe9e9;
+	margin-bottom: 11px;
+	margin-top: 14px;
+
+}
+.activity-menu2{
+	height: 60px;
+    width: 106px;
+	background: #ffe9e9;
+	margin-bottom: 11px;
+
+
+}
+.activity-menu3{
+	height: 60px;
+    width: 106px;
+	background: #ffe9e9;
+	margin-bottom: 11px;
+
+}
+.activity-menu4{
+	height: 60px;
+    width: 106px;
+	background: #ffe9e9;
+	margin-bottom: 11px;
+
+}
+.activity-menu5{
+	height: 60px;
+    width: 106px;
+    background: #ffe9e9;
+    margin-bottom: 16px;
+
+}
+.activity-menu6{
+	height: 56px;
+    width: 106px;
+    background: #ffe9e9;
+    margin-top: -8px;
+}
+
+.Activity h2{	
+	margin-top: -27px;
+   
+}
+.activity-h4 h4{
+	float: right;
+    margin-top: -44px;
+}
+
+.Channels h2{
+	margin-top: -48px;
+}
+
+.Channels-menu1 {
+	height: 110px;
+    width: 182px;
+	background: #ffe9e9;
+	margin-bottom: 17px;
+	margin-top: 18px;
+
+}
+.Channels-menu2 {
+	height: 110px;
+    width: 182px;
+	background: #ffe9e9;
+	margin-bottom: 17px;
+}
+.Channels-menu3 {
+	height: 110px;
+    width: 182px;
+	background: #ffe9e9;
+	margin-bottom: 17px;
+}
+.Channels-menu4 {
+	height: 110px;
+    width: 182px;
+	background: #ffe9e9;
+	margin-bottom: 17px;
+}
+.Channels-menu5 {
+	height: 110px;
+    width: 182px;
+	background: #ffe9e9;
+	margin-bottom: 17px;
+}
+.Channels-menu6 {
+	height: 110px;
+    width: 182px;
+	background: #ffe9e9;
+	margin-bottom: 17px;
+	margin-left: 203px;
+    margin-top: -635px;
+
+}
+.Channels-menu7 {
+	height: 110px;
+    width: 182px;
+	background: #ffe9e9;
+	margin-bottom: 17px;
+	margin-left: 203px;
+
+}
+.Channels-menu8 {
+	height: 110px;
+    width: 182px;
+	background: #ffe9e9;
+	margin-bottom: 17px;
+	margin-left: 203px;
+
+}
+.Channels-menu9 {
+	height: 110px;
+    width: 182px;
+	background: #ffe9e9;
+	margin-bottom: 17px;
+	margin-left: 203px;
+
+}
+.Channels-menu10 {
+	height: 110px;
+    width: 182px;
+	background: #ffe9e9;
+	margin-bottom: 17px;
+	margin-left: 203px;
+
+}
+
+.Channels {
+	border: 3px solid white;
+    border-left: 0;
+    border-top: 0;
+    border-right: 0px;
+}
+.yazilar h4{
+	display: inline-block;
+    margin-left: 275px;
+    margin-top: 26px;
+}
+
+.menu1 h3{
+	float: left;
+    margin-top: 215px;
+    color: #953e46;
+}
+.menu1 h4{
+	float: left;
+    margin-left: -213px;
+    margin-top: 242px;
+    color: #953e46;
+}
+
+
+.menu1 .salam{
+	float: right;
+
+}
+
+.menu4-yazi{
+ 	float: left;
+    margin-top: 118px;
+    margin-left: -6px;
+    color: #953e46;
+}
+
+.menu3-yazi{
+ 	float: left;
+    margin-top: 106px;
+    margin-left: 7px;
+    color: #953e46;
+} 
+.menu2-yazi{
+ 	float: left;
+    margin-top: 106px;
+    margin-left: 7px;
+    color: #953e46;
+} 
+.menu5-yazi{
+ 	float: left;
+    margin-top: 127px;
+    margin-left: 5px;
+    color: #953e46;
+} 
+
+.Channels-menu1 h2{
+	float: left;
+    margin-top: 80px;
+    color: #953e46;
+}
+.Channels-menu2 h2{
+	float: left;
+    margin-top: 80px;
+    color: #953e46;
+}
+.Channels-menu3 h2{
+	float: left;
+    margin-top: 80px;
+    color: #953e46;
+}
+.Channels-menu4 h2{
+	float: left;
+    margin-top: 80px;
+    color: #953e46;
+}
+.Channels-menu5 h2{
+	float: left;
+    margin-top: 80px;
+    color: #953e46;
+}
+.Channels-menu6 h2{
+	float: left;
+    margin-top: -428px;
+    color: #953e46;
+}
+.Channels-menu7 h2{
+	float: left;
+    margin-top: -301px;
+    color: #953e46;
+}
+.Channels-menu8 h2{
+	float: left;
+    margin-top: -173px;
+    color: #953e46;
+}
+.Channels-menu9 h2{
+	float: left;
+    margin-top: -47px;
+    color: #953e46;
+}
+.Channels-menu10 h2{
+	float: left;
+	margin-top: 78px;
+	color: #953e46;
+}
+
+.channels-h4 h4{
+	float: right;
+    margin-top: -36px;
+}
+
+.ad{
+ 	margin-left: 117px;
+    width: 109px;
+
+}
+.comment{
+	margin-top: -37px;
+    margin-left: 216px;
+}
+.talking{
+	width: 213px;
+    margin-left: 118px;
+    margin-top: -18px;
+}
+.time{
+	margin-left: 116px;
+    width: 70px;
+    margin-top: -14px;
+}
+
+.chan-tab{
+	float: left;
+    margin-top: -34px;
+}
+.peop-tab{
+	float: left;
+	margin-top: 66px;
+
+}
+
+.Channels h2 {
+    margin-top: -41px;
+}
+.People h4 {
+	float: left;
+    margin-left: 338px;
+    margin-top: 71px;
+
+} 
+
+.yazii h4{
+	float: right;
+    margin-top: -39px;
+    margin-right: 258px;
+
+}
+
+.Documents h2 {
+	display: inline-block;
+}
+.teze{
+	display: inline-block;
+	margin-top: 45px;
+
+}
+
+.footer{
+	height: 150px;
+	width:100%;
+	display: inline-block;
+    margin-top: 411px;
+	border: 2px solid #ffe9e9;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+}
+.footer h4{
+	display: inline-block;
+    margin-left: -566px;
+    margin-top: 64px;
+    color: #ffe9e9;
+}
+
+.last-menu {
+	margin-top: -23px;
+    margin-left: 0px;
+}
+.foot-navbar {
+	 margin-top: 40px;
+
+}
